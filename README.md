@@ -8,7 +8,7 @@ This flow is designed to **block high-value items until approved**. When a new i
 
 ## 🧩 Flow Steps
 1. **Blocked item** – Sets item as "Blocked = true"
-2. **Delay** – Waits briefly (e.g., 5 sec) to ensure system writes complete
+2. **Delay** – Waits briefly (e.g., 30 sec) to ensure system writes complete
 3. **Get item info** – Retrieves the item's price or metadata
 4. **Check Price** – If price > $X threshold:
    - Send approval request
