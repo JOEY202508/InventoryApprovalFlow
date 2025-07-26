@@ -17,7 +17,7 @@ This flow is designed to **block high-value items until approved**. When a new i
 5. If price does **not** exceed threshold, no action is taken
 
 ## 📷 Screenshots
-![Flow Diagram](screenshots/flow-overview.png)
+![Flow Diagram](flow-overview.png)
 
 ## 🔗 Technologies Used
 - Power Automate Cloud Flow
