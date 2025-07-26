@@ -18,6 +18,7 @@ This flow is designed to **block high-value items until approved**. When a new i
 
 ## 📷 Screenshots
 ![Flow Diagram](flow-overview.png)
+![Flow Diagram](flow-overview1.png)
 
 ## 🔗 Technologies Used
 - Power Automate Cloud Flow
